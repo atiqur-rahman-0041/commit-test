@@ -15,3 +15,5 @@ Adding something new to the skill markdown file for commit testing. Will commit 
 Now making the version 5 of the skill markdown file for commit testing. -- in the testing -2 branch.
 
 Adding something new to the skill markdown file for commit testing. Will commit only, not pushing to remote repository. -- this is in the testing -3 branch.
+
+Now making the version 6 of the skill markdown file for commit testing. -- in the testing -3 branch.
