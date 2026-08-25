@@ -1,0 +1,1 @@
+This is a test skill markdown file for commit testing.
